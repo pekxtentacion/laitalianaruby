@@ -19,6 +19,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 # Bootstrap-sass
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+# Jquery
+gem 'jquery-rails', '~> 4.4'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
